@@ -1,1 +1,2 @@
 *.unity filter=lfs diff=lfs merge=lfs -text
+Assets/8K[[:space:]]Skybox[[:space:]]Pack[[:space:]]Free/* filter=lfs diff=lfs merge=lfs -text
